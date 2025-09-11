@@ -15,6 +15,7 @@ function App() {
         </p>
 
         <button>Click Here!</button>
+        <button>New Button</button>
         <a
           className="App-link"
           href="https://reactjs.org"
